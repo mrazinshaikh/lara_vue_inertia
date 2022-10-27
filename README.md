@@ -62,4 +62,7 @@ php artisan serve
 npm run dev
 ```
 
-### Happy Coding
+10. Visit laravel serve [127.0.0.1:8000](http://127.0.0.1:8000)
+
+
+<h1 style="text-align:center;margin-top:3rem;border-top:1px solid rgba(202, 203, 204,0.3);padding:1rem 0;">:smiley: :smiley: Happy Coding :smiley: :smiley:</h1>
