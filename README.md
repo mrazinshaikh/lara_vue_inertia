@@ -20,7 +20,13 @@ git clone https://github.com/mrazinshaikh/lara_vue_inertia.git
 cd lara_vue_inertia
 ```
 
-3. Set Up env
+3. Install php dependencies
+
+```bash
+composer install
+```
+
+4. Set Up env
 
 ```bash
 cp .env.example .env
@@ -29,11 +35,6 @@ cp .env.example .env
 - To set `APP_KEY` RUN `php artisan  key:generate`
 - PS: Also set `DB_USERNAME` if other then `root`
 
-4. Install php dependencies
-
-```bash
-composer install
-```
 
 5. Install Js dependencies
 
@@ -61,5 +62,4 @@ php artisan serve
 npm run dev
 ```
 
-
-
+### Happy Coding
